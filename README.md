@@ -31,5 +31,5 @@ g++ AES.cpp -o aes
 ### Run
 
 ```bash
-g++ AES.cpp -o aes
+./aes
 ```
